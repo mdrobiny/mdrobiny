@@ -45,7 +45,6 @@ Working under **[dFaster](https://dFaster.com)** — focused on fast, modern exp
 ## Connect
 
 - Website: **[dFaster.com](https://dFaster.com)**
-- X: **[@roxymanbd](https://x.com/roxymanbd)**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdrobiny&style=flat-square&color=58a6ff" alt="Profile views" />
