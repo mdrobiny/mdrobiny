@@ -25,11 +25,12 @@ Working under **[dFaster](https://dFaster.com)** — focused on fast, modern exp
   <strong>Also:</strong> Progressive Web Apps · GitHub Pages · REST APIs
 </p>
 
-## Featured project
+## Featured projects
 
 | Project | Description |
 | :--- | :--- |
 | **[number-finder](https://github.com/mdrobiny/number-finder)** · [Live demo](https://mdrobiny.github.io/number-finder/) | Bangla PWA to find preferred Robi/Airtel mobile numbers — installable, mobile-first |
+| **[photocard-maker](https://github.com/mdrobiny/photocard-maker)** · [Live demo](https://mdrobiny.github.io/photocard-maker/) | Bangla news photocard maker — viral FB-style cards, 8 templates, installable PWA |
 
 ## GitHub stats
 
