@@ -31,6 +31,7 @@ Working under **[dFaster](https://dFaster.com)** — focused on fast, modern exp
 | :--- | :--- |
 | **[number-finder](https://github.com/mdrobiny/number-finder)** · [Live demo](https://mdrobiny.github.io/number-finder/) | Bangla PWA to find preferred Robi/Airtel mobile numbers — installable, mobile-first |
 | **[photocard-maker](https://github.com/mdrobiny/photocard-maker)** · [Live demo](https://mdrobiny.github.io/photocard-maker/) | Bangla news photocard maker — viral FB-style cards, 8 templates, installable PWA |
+| **[namaz-time](https://github.com/mdrobiny/namaz-time)** · [Live demo](https://mdrobiny.github.io/namaz-time/) | Bangla prayer times + sehri/iftar for all 64 districts — offline PWA |
 
 ## GitHub stats
 
