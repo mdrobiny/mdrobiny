@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/avatar.png" width="160" height="160" alt="Robin" style="border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/mdrobiny/mdrobiny/main/assets/avatar.png" width="160" height="160" alt="Robin" style="border-radius: 50%;" />
 
 <br />
 
@@ -34,8 +34,8 @@ Working under **[dFaster](https://dFaster.com)** — focused on fast, modern exp
 ## GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdrobiny&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrobiny&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mdrobiny&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdrobiny&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top languages" />
 </div>
 
 <p align="center">
